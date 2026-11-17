@@ -1,0 +1,279 @@
+{
+  "books": [
+    {
+      "title": "黄帝内经",
+      "dynasty": "先秦",
+      "author": "黄帝",
+      "category": "医经",
+      "description": "中国最早的医学典籍，奠定了中医学的理论基础，包括《素问》和《灵枢》两部分。",
+      "content": "论述人体生理、病理、诊断、治疗等基础理论",
+      "prescriptions": [],
+      "source_url": "https://ctext.org/huangdi-neijing/zh",
+      "sort_order": 1
+    },
+    {
+      "title": "伤寒论",
+      "dynasty": "东汉",
+      "author": "张仲景",
+      "category": "医经",
+      "description": "中医经典著作，创立六经辨证体系，奠定辨证论治基础。",
+      "content": "论述外感热病的辨证论治，载方113首",
+      "prescriptions": [
+        "桂枝汤",
+        "麻黄汤",
+        "小柴胡汤",
+        "白虎汤",
+        "大承气汤"
+      ],
+      "source_url": "https://ctext.org/shang-han-lun/zh",
+      "sort_order": 2
+    },
+    {
+      "title": "金匮要略",
+      "dynasty": "东汉",
+      "author": "张仲景",
+      "category": "医经",
+      "description": "《伤寒杂病论》的杂病部分，论述内科杂病及妇科、外科等病症。",
+      "content": "论述杂病辨证论治，载方262首",
+      "prescriptions": [
+        "酸枣仁汤",
+        "温经汤",
+        "肾气丸",
+        "炙甘草汤"
+      ],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=416678",
+      "sort_order": 3
+    },
+    {
+      "title": "神农本草经",
+      "dynasty": "东汉",
+      "author": "神农",
+      "category": "本草",
+      "description": "中国最早的药物学专著，载药365种，创立四气五味理论。",
+      "content": "记载365种药物的性味、功效、主治",
+      "prescriptions": [],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=159602",
+      "sort_order": 4
+    },
+    {
+      "title": "本草纲目",
+      "dynasty": "明",
+      "author": "李时珍",
+      "category": "本草",
+      "description": "中国古代药物学巨著，载药1892种，被誉为“东方药学巨典”。",
+      "content": "集16世纪以前中国本草学之大成",
+      "prescriptions": [],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=161524",
+      "sort_order": 5
+    },
+    {
+      "title": "太平惠民和剂局方",
+      "dynasty": "宋",
+      "author": "太平惠民和剂局",
+      "category": "方书",
+      "description": "宋代官方药局方书，收载大量经典方剂，是第一部成药典。",
+      "content": "收载788首方剂，多为丸散膏丹等成药",
+      "prescriptions": [
+        "四君子汤",
+        "四物汤",
+        "香苏散",
+        "藿香正气散",
+        "逍遥散"
+      ],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=712108",
+      "sort_order": 6
+    },
+    {
+      "title": "备急千金要方",
+      "dynasty": "唐",
+      "author": "孙思邈",
+      "category": "方书",
+      "description": "唐代医学巨著，内容丰富，被誉为“中国最早的临床百科全书”。",
+      "content": "共30卷，载方5300余首",
+      "prescriptions": [
+        "独活寄生汤",
+        "苇茎汤",
+        "温胆汤"
+      ],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=236578",
+      "sort_order": 7
+    },
+    {
+      "title": "千金翼方",
+      "dynasty": "唐",
+      "author": "孙思邈",
+      "category": "方书",
+      "description": "《备急千金要方》的补充，内容更为详尽。",
+      "content": "共30卷，补充《千金要方》之不足",
+      "prescriptions": [],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=358699",
+      "sort_order": 8
+    },
+    {
+      "title": "外台秘要",
+      "dynasty": "唐",
+      "author": "王焘",
+      "category": "方书",
+      "description": "唐代医学巨著，整理保存了大量唐代及以前的医学文献。",
+      "content": "共40卷，载方6000余首",
+      "prescriptions": [],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=798621",
+      "sort_order": 9
+    },
+    {
+      "title": "医宗金鉴",
+      "dynasty": "清",
+      "author": "吴谦等",
+      "category": "医宗",
+      "description": "清代官修医学丛书，是清代医学教育的标准教材。",
+      "content": "共90卷，涵盖各科医学内容",
+      "prescriptions": [
+        "五味消毒饮",
+        "仙方活命饮"
+      ],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=342221",
+      "sort_order": 10
+    },
+    {
+      "title": "脾胃论",
+      "dynasty": "金",
+      "author": "李东垣",
+      "category": "医论",
+      "description": "补土派代表作，强调脾胃为后天之本。",
+      "content": "论述脾胃学说的专著",
+      "prescriptions": [
+        "补中益气汤",
+        "清胃散",
+        "当归补血汤"
+      ],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=836987",
+      "sort_order": 11
+    },
+    {
+      "title": "丹溪心法",
+      "dynasty": "元",
+      "author": "朱震亨",
+      "category": "医论",
+      "description": "滋阴派代表作，主张“阳常有余，阴常不足”。",
+      "content": "论述滋阴降火的学术思想",
+      "prescriptions": [
+        "大补阴丸",
+        "越鞠丸"
+      ],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=425392",
+      "sort_order": 12
+    },
+    {
+      "title": "景岳全书",
+      "dynasty": "明",
+      "author": "张景岳",
+      "category": "医宗",
+      "description": "明代医学巨著，主张温补，创立左归丸、右归丸等名方。",
+      "content": "共64卷，涵盖医学各科",
+      "prescriptions": [
+        "左归丸",
+        "右归丸",
+        "玉女煎"
+      ],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=223117",
+      "sort_order": 13
+    },
+    {
+      "title": "温病条辨",
+      "dynasty": "清",
+      "author": "吴鞠通",
+      "category": "温病",
+      "description": "温病学代表作，创立三焦辨证体系。",
+      "content": "论述温病的辨证论治",
+      "prescriptions": [
+        "银翘散",
+        "桑菊饮",
+        "清营汤",
+        "安宫牛黄丸"
+      ],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=395184",
+      "sort_order": 14
+    },
+    {
+      "title": "湿热条辨",
+      "dynasty": "清",
+      "author": "薛生白",
+      "category": "温病",
+      "description": "论述湿热病的专著，对湿热病的辨证论治有独特见解。",
+      "content": "专论湿热病的病因病机及证治",
+      "prescriptions": [],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=508881",
+      "sort_order": 15
+    },
+    {
+      "title": "医林改错",
+      "dynasty": "清",
+      "author": "王清任",
+      "category": "医论",
+      "description": "注重解剖实践，创立活血化瘀学说。",
+      "content": "论述解剖及瘀血证治",
+      "prescriptions": [
+        "血府逐瘀汤",
+        "补阳还五汤",
+        "少腹逐瘀汤"
+      ],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=798821",
+      "sort_order": 16
+    },
+    {
+      "title": "小儿药证直诀",
+      "dynasty": "宋",
+      "author": "钱乙",
+      "category": "儿科",
+      "description": "中国最早的儿科专著，创立六味地黄丸等名方。",
+      "content": "专论小儿疾病的辨证论治",
+      "prescriptions": [
+        "六味地黄丸",
+        "导赤散",
+        "泻白散"
+      ],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=5598915",
+      "sort_order": 17
+    },
+    {
+      "title": "傅青主女科",
+      "dynasty": "清",
+      "author": "傅山",
+      "category": "妇科",
+      "description": "妇科名著，对妇科病的辨证论治有独到见解。",
+      "content": "专论妇科疾病的辨证论治",
+      "prescriptions": [
+        "完带汤",
+        "易黄汤",
+        "清经散"
+      ],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=2273994",
+      "sort_order": 18
+    },
+    {
+      "title": "外科正宗",
+      "dynasty": "明",
+      "author": "陈实功",
+      "category": "外科",
+      "description": "外科名著，对外科疾病的诊治有详细论述。",
+      "content": "论述外科疾病的辨证论治",
+      "prescriptions": [
+        "如意金黄散",
+        "阳和汤"
+      ],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=826223",
+      "sort_order": 19
+    },
+    {
+      "title": "针灸甲乙经",
+      "dynasty": "晋",
+      "author": "皇甫谧",
+      "category": "针灸",
+      "description": "中国最早的针灸学专著，奠定了针灸学的基础。",
+      "content": "论述经络腧穴及针灸治疗",
+      "prescriptions": [],
+      "source_url": "https://ctext.org/wiki.pl?if=gb&res=757735",
+      "sort_order": 20
+    }
+  ]
+}
